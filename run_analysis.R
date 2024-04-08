@@ -11,7 +11,7 @@
 library(dplyr)
 
 #assign R working directory
-setwd("C:/Users/hgupyff/Documents/Coursera/E. DATA SCIENCE/3. Getting and Cleaning Data/4 Semana/7. Project")
+setwd("~/Project")
 
 
 #Si el directorio existe, sino existe lo crea
